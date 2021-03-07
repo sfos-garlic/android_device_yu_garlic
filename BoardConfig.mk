@@ -31,7 +31,7 @@ BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := $(DEVICE_PATH)/bluetooth
 TARGET_PROVIDES_LIBLIGHT := true
 
 # Power
-TARGET_TAP_TO_WAKE_NODE := "/sys/android_touch/doubletap2wake" 
+#TARGET_TAP_TO_WAKE_NODE := "/sys/android_touch/doubletap2wake" 
 
 # Partitions
 BOARD_SYSTEMIMAGE_PARTITION_SIZE := 5003804672
