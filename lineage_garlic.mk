@@ -41,4 +41,4 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="p7201-user 7.1.1 NMF26F 1503040709 release-keys"
 
 # Set BUILD_FINGERPRINT variable to be picked up by both system and vendor build.prop
-BUILD_FINGERPRINT := YU/YU5040/YU5040:7.1.1/NMF26F/1502798695:user/release-keys
+BUILD_FINGERPRINT := YU/YU5040/YU5040:7.1.1/NMF26F/1503040709:user/release-keys
