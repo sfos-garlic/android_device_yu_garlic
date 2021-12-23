@@ -28,7 +28,7 @@ $(ELANFP_SYMLINKS): $(LOCAL_INSTALLED_MODULE)
 	@echo "ELANFP firmware link: $@"
 	@mkdir -p $(dir $@)
 	@rm -rf $@
-	$(hide) ln -sf /firmware/image/$(notdir $@) $@
+	$(hide) ln -sf /vendor/firmware_mnt/image/$(notdir $@) $@
 
 ALL_DEFAULT_INSTALLED_MODULES += $(ELANFP_SYMLINKS)
 
@@ -41,7 +41,7 @@ $(GOODIXFP_SYMLINKS): $(LOCAL_INSTALLED_MODULE)
 	@echo "GOODIXFP firmware link: $@"
 	@mkdir -p $(dir $@)
 	@rm -rf $@
-	$(hide) ln -sf /firmware/image/$(notdir $@) $@
+	$(hide) ln -sf /vendor/firmware_mnt/image/$(notdir $@) $@
 
 ALL_DEFAULT_INSTALLED_MODULES += $(GOODIXFP_SYMLINKS)
 endif
