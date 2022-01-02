@@ -184,10 +184,10 @@ vendor/lib/hw/lights.msm8937.so|eed6731d3b9ddb489eb0daf2f899faec2f17ae29
 vendor/lib64/hw/lights.msm8937.so|5d4d3be9fe668acdae5f5801bd642083c138f60d
 
 # Fingerprint - from U-FEEL-PRIME-V01.31.OPE.20-[Nougat-7.1]-P7201AN
-vendor/bin/gx_fpd|1d4f9022ff0174702c02aeca5ba6e40972143e09
+vendor/bin/gx_fpd|bd5764191552daf1b41158fa711871af6cd2417e
 vendor/lib64/libfpservice.so|19d03f599497ffad7537653d30565e04830f69b0
 vendor/lib64/libfp_client.so|df6a7fcf779901fc52cf5bf92431d2f85c464920
-vendor/lib64/hw/fingerprint.goodix.default.so|ff03ceda2d424332273c55ff782de668f5e942d4
+vendor/lib64/hw/fingerprint.goodix.default.so|09c34746b3df08cc3901a771f8f766686eba1a55
 vendor/lib64/hw/fingerprint.elan.default.so|05a67ae978f73aa47b4b09472531c6648d11730b
 vendor/lib64/hw/gxfingerprint.default.so|505280f76d81f415ac5a65e69983b57ff0c7cf58
 vendor/lib64/libfpnav.so|ca02688c5195861b0e4a474149bbf5348c3bb4ef
